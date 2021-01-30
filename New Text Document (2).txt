@@ -1,0 +1,9 @@
+Company name : CHARES
+Date         : 31/12/2018
+Item         :TIKKA MASALA CHICKEN(MURGH)
+Price        :$20.00
+Item         :PALAK(SPINACH) PANEER(CHEESE)
+Price        :$18.00
+Item         :VEGAN BENGAN BHARTHA
+Price        :$17.00
+Total        :$58.30
